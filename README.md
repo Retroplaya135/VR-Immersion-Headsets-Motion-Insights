@@ -36,3 +36,17 @@ A comprehensive Python-based analysis of user experiences with Virtual Reality (
    
 3. Ensure the dataset is downloaded from Kaggle:
    - [Virtual Reality Experiences Dataset](https://www.kaggle.com/datasets/aakashjoshi123/virtual-reality-experiences)
+
+---
+
+## Dataset Overview
+
+The dataset contains the following columns:
+- **Gender**: User's gender (Male, Female, Other).
+- **VRHeadset**: VR headset used (Oculus Rift, HTC Vive, PlayStation VR).
+- **MotionSickness**: Level of motion sickness experienced (Low, Medium, High).
+- **Age**: Age of the user.
+- **Duration**: Duration of VR usage in minutes.
+- **ImmersionLevel**: User's reported immersion level (Low, Medium, High).
+
+---
