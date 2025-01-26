@@ -72,3 +72,10 @@ sns.histplot(data=data, x='Age', bins=20, kde=True)
 plt.title('Age Distribution')
 plt.show()
 ```
+
+#### Scatter Plot for Age vs. Duration:
+```python
+sns.scatterplot(data=data, x='Age', y='Duration', hue='Gender', palette='Set2')
+plt.title('Age vs. Duration of VR Usage')
+plt.show()
+```
