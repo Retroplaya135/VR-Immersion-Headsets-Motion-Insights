@@ -86,3 +86,10 @@ sns.heatmap(data.corr(), annot=True)
 plt.title('Correlation Heatmap')
 plt.show()
 ```
+
+### 3. Correlation Analysis
+Analyze the relationships between variables:
+```python
+correlation_matrix = data.corr()
+print(correlation_matrix)
+```
