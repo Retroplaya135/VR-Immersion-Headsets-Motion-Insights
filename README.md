@@ -79,3 +79,10 @@ sns.scatterplot(data=data, x='Age', y='Duration', hue='Gender', palette='Set2')
 plt.title('Age vs. Duration of VR Usage')
 plt.show()
 ```
+
+#### Heatmap for Correlation:
+```python
+sns.heatmap(data.corr(), annot=True)
+plt.title('Correlation Heatmap')
+plt.show()
+```
