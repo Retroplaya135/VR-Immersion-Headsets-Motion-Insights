@@ -50,3 +50,13 @@ The dataset contains the following columns:
 - **ImmersionLevel**: User's reported immersion level (Low, Medium, High).
 
 ---
+
+## Usage Examples
+
+### 1. Data Loading and Exploration
+Load and preview the data after downloading the data from kaggle:
+```python
+import pandas as pd
+data = pd.read_csv('path/to/data.csv')
+print(data.head())
+```
