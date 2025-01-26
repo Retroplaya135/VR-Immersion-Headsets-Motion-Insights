@@ -28,3 +28,8 @@ A comprehensive Python-based analysis of user experiences with Virtual Reality (
    git clone https://github.com/your-repo/vr-experience-analysis.git
    cd vr-experience-analysis
    ```
+   
+2. Install required libraries:
+   ```bash
+   pip install numpy pandas matplotlib seaborn
+   ```
