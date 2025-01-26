@@ -60,3 +60,15 @@ import pandas as pd
 data = pd.read_csv('path/to/data.csv')
 print(data.head())
 ```
+
+### 2. Data Visualization
+#### Histogram and KDE for Age Distribution:
+```python
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+plt.figure(figsize=(12, 6))
+sns.histplot(data=data, x='Age', bins=20, kde=True)
+plt.title('Age Distribution')
+plt.show()
+```
