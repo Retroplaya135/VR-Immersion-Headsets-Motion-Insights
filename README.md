@@ -51,7 +51,7 @@ The dataset contains the following columns:
 
 ---
 
-## Usage Examples
+## Analysis
 
 ### 1. Data Loading and Exploration
 Load and preview the data after downloading the data from kaggle:
@@ -93,3 +93,18 @@ Analyze the relationships between variables:
 correlation_matrix = data.corr()
 print(correlation_matrix)
 ```
+
+### 4. Visualization
+#### Pair Plot:
+```python
+sns.pairplot(data=data, hue='ImmersionLevel', diag_kind='kde', palette='viridis')
+plt.show()
+```
+
+#### Violin Plot for Motion Sickness vs. Age:
+```python
+sns.violinplot(data=data, x='Age', y='MotionSickness', hue='ImmersionLevel', palette='viridis')
+plt.title('Motion Sickness vs. Age Group')
+plt.show()
+```
+
