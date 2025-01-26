@@ -20,3 +20,11 @@ A comprehensive Python-based analysis of user experiences with Virtual Reality (
    - Replaces categorical variables with numerical mappings for easier analysis.
 
 ---
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo/vr-experience-analysis.git
+   cd vr-experience-analysis
+   ```
