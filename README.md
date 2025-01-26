@@ -33,3 +33,6 @@ A comprehensive Python-based analysis of user experiences with Virtual Reality (
    ```bash
    pip install numpy pandas matplotlib seaborn
    ```
+   
+3. Ensure the dataset is downloaded from Kaggle:
+   - [Virtual Reality Experiences Dataset](https://www.kaggle.com/datasets/aakashjoshi123/virtual-reality-experiences)
