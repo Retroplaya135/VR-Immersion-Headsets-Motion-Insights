@@ -140,11 +140,18 @@ plt.show()
 
 ---
 
-## Advanced Use Cases
+## Use Cases
 
 ### **Scenario 1: Improving Immersion for Younger Users**
 - **Objective**: Reduce motion sickness for younger users with high immersion levels.
 - **Steps**:
   1. Analyze motion sickness trends by age group.
   2. Customize VR hardware/software for younger users, focusing on smoother performance.
+
+### **Scenario 2: Increasing VR Adoption Among Women**
+- **Objective**: Broaden VR usage among female users.
+- **Steps**:
+  1. Analyze gender-based usage patterns and immersion levels.
+  2. Develop gender-neutral VR environments with tailored content.
+
 
