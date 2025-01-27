@@ -41,7 +41,7 @@ A Python-based analysis of user experiences with Virtual Reality (VR) platforms 
 
 ## Recommeneded Tools : Google Colab or Kaggle
 
-
+---
 
 ## Dataset Overview
 
@@ -140,7 +140,6 @@ plt.show()
 8. **Design a smart wearable with demographic considerations.**
    - **Solution**: Develop hardware that integrates comfort, performance, and user feedback for better VR adoption.
 
----
 
 ---
 
