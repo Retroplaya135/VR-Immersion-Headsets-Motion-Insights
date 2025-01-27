@@ -51,7 +51,7 @@ The dataset contains the following columns:
 
 ---
 
-## Analysis
+## Analyzing the Code
 
 ### 1. Data Loading and Exploration
 Load and preview the data after downloading the data from kaggle:
