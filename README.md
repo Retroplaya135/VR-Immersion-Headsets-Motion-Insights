@@ -174,4 +174,7 @@ plt.show()
 2. **Longitudinal Studies**:
    - Study changes in VR usage over time for the same users.
 
+3. **Hardware Analysis**:
+   - Analyze the impact of hardware specifications on user experiences.
+
 
