@@ -186,3 +186,9 @@ plt.show()
 ## Contributing
 
 Contributions are welcome! Please feel free to fork the repository and submit pull requests.
+
+---
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). 
