@@ -160,3 +160,10 @@ plt.show()
   1. Analyze the dataset for trends in headset usage.
   2. Ensure VR content compatibility with Oculus Rift, HTC Vive, and PlayStation VR.
 
+---
+
+## Future Work
+
+1. **Expand Demographic Data**:
+   - Include more user details like geographic location and occupation.
+
