@@ -171,3 +171,7 @@ plt.show()
 1. **Expand Demographic Data**:
    - Include more user details like geographic location and occupation.
 
+2. **Longitudinal Studies**:
+   - Study changes in VR usage over time for the same users.
+
+
