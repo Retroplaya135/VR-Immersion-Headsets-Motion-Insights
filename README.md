@@ -181,4 +181,8 @@ plt.show()
    - Use predictive models to suggest personalized VR content.
 
 
+---
 
+## Contributing
+
+Contributions are welcome! Please feel free to fork the repository and submit pull requests.
