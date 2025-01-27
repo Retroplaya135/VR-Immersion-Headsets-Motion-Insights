@@ -157,4 +157,6 @@ plt.show()
 ### **Scenario 3: Platform-Specific Compatibility**
 - **Objective**: Optimize VR experiences for popular headsets.
 - **Steps**:
+  1. Analyze the dataset for trends in headset usage.
+  2. Ensure VR content compatibility with Oculus Rift, HTC Vive, and PlayStation VR.
 
