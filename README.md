@@ -176,5 +176,9 @@ plt.show()
 
 3. **Hardware Analysis**:
    - Analyze the impact of hardware specifications on user experiences.
+  
+4. **Machine Learning**:
+   - Use predictive models to suggest personalized VR content.
+
 
 
